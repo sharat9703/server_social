@@ -1,5 +1,6 @@
 # server_social
 
-#### clone the repository and run "npm install" in the bash/terminal
+### Clone the repository and run "npm install" in the bash/terminal
 
-#### the api for local and live urls go here for better accessibility
+#### The api for local and live urls go here for better accessibility
+  ##### running on port : 3500
